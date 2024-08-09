@@ -1,0 +1,62 @@
+
+.panel {
+    padding: 30px;
+    background-color: rgb(0, 125, 150);
+    border-radius: 10px;
+    border-style: groove;
+    border-color: rgb(0, 200, 200);
+    margin-bottom: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+a {
+    color: aliceblue;
+    margin-right: 20px;
+    font-size: 25px;
+}
+
+a:hover {
+    color: rgb(150, 150, 150);
+}
+
+
+.panel2 {
+    padding: 20px;
+    background-color: rgb(0, 125, 150);
+    border-radius: 10px;
+    border-style: groove;
+    border-top-color: rgb(0, 200, 200);
+    border-inline-color: rgb(0, 200, 200);
+    border-bottom-color: aliceblue;
+    margin-bottom: 5px;
+    font-size: 22px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+
+.fotky {
+    display: flex;
+    padding: 30px;
+    background-color: rgb(150, 150, 150);
+    border-radius: 5px;
+    border-style: double;
+    border-color: black;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+
+.fotka {
+    border-radius: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.p2 {
+    font-size: 15px;
+    margin-bottom: auto;
+}
